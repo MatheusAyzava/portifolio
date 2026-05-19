@@ -10,11 +10,10 @@ export const site = {
   githubUser: "MatheusAyzava",
   location: "Votorantim - SP",
   cvPath: "/cv_MatheusAyzava.pdf",
-  avatar:
-    "https://avatars.githubusercontent.com/u/127338296?v=4",
+  avatar: "/foto-matheus.png",
   greeting: "Olá, eu sou o Matheus.",
   tagline:
-    "Estudante de Ciências da Computação na Faculdade das Américas. Transformo dados e processos em aplicações web do zero ao deploy. Criador do DashFlow e produtos SaaS.",
+    "Formado em Ciências da Computação pela Faculdade das Américas, em fase final de TCC. Transformo dados e processos em aplicações web do zero ao deploy. Criador do DashFlow e produtos SaaS.",
   typewriterWords: ["Full-Stack", "Dados & BI", "Python & Node"],
   techScroller: [
     "PYTHON",
@@ -91,9 +90,9 @@ export const site = {
     },
     {
       date: "Atualmente",
-      title: "Dados & Cloud",
+      title: "Formado & TCC",
       side: "right" as const,
-      body: "Formação prevista para Jun/2026. Consolidando conhecimentos em pipelines de dados, automação com N8N e arquitetura de aplicações escaláveis.",
+      body: "Graduado em <strong>Ciências da Computação</strong>, com disciplinas concluídas e TCC em andamento. Foco em pipelines de dados, automação com N8N e arquitetura de aplicações escaláveis.",
     },
   ],
   mainProject: {
@@ -172,10 +171,10 @@ export const site = {
       text: "Desenvolvimento de aplicações web para controle de materiais, estoque e solicitações internas. Modelagem SQL, integração com APIs, dashboards e publicação em produção na maior empresa de pás eólicas da América Latina.",
     },
     education: {
-      period: "Previsão: Junho 2026",
+      period: "Formado · TCC em andamento",
       role: "Bacharelado em Ciências da Computação",
       company: "Faculdade das Américas",
-      text: "Formação com foco em estruturas de dados, banco de dados, desenvolvimento web e análise de dados. Cursos complementares em Power BI, Python, SQL e Node.js.",
+      text: "Graduação concluída na grade curricular; atualmente desenvolvendo o Trabalho de Conclusão de Curso (TCC). Formação com foco em estruturas de dados, banco de dados, desenvolvimento web e análise de dados.",
     },
     skills: [
       "Python",
